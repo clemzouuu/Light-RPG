@@ -1,4 +1,4 @@
-from gameplay import game
+from gameplay import *
 
 first_input = ('')
 
